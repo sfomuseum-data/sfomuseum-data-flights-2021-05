@@ -2,10 +2,12 @@
   "id": 1730036987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-01",
+    "date:cessation_upper": "2021-05-01",
     "date:inception_lower": "2021-05-01",
     "date:inception_upper": "2021-05-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-01",
+    "edtf:cessation": "2021-05-01T17:07:24Z",
+    "edtf:inception": "2021-05-01T08:32:42Z",
     "flysfo:actual_timestamp": 1619910000,
     "flysfo:airline": "JL",
     "flysfo:date": "2021-05-01",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154176469"
+    },
     "wof:country": "US",
     "wof:created": 1619971489,
     "wof:geomhash": "99c2bdbe61e95eb26a51b43b0c172358",
@@ -46,7 +51,7 @@
       1159284563, 
       -1
     ],
-    "wof:lastmodified": 1619971489,
+    "wof:lastmodified": 1619971961,
     "wof:name": "JL6712 (HND-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

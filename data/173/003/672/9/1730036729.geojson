@@ -2,10 +2,12 @@
   "id": 1730036729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-01",
+    "date:cessation_upper": "2021-05-01",
     "date:inception_lower": "2021-05-01",
     "date:inception_upper": "2021-05-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-01",
+    "edtf:cessation": "2021-05-01T07:16:31-07:00",
+    "edtf:inception": "2021-05-01T19:55:00Z",
     "flysfo:actual_timestamp": 1619910000,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,19 +38,27 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N835VA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154200719"
+    },
     "wof:country": "US",
     "wof:created": 1619971419,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [],
     "wof:id": 1730036729,
     "wof:involves": [
+      1159292085, 
       102527513, 
       102533795, 
-      1159283813, 
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1619971419,
+    "wof:lastmodified": 1619971961,
     "wof:name": "AS9577 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
