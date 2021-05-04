@@ -2,10 +2,12 @@
   "id": 1730044029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-03",
+    "date:cessation_upper": "2021-05-03",
     "date:inception_lower": "2021-05-03",
     "date:inception_upper": "2021-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-03",
+    "edtf:cessation": "2021-05-03T02:20:00-07:00",
+    "edtf:inception": "2021-05-03T08:16:00Z",
     "flysfo:actual_timestamp": 1620082800,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541685,
@@ -34,19 +38,26 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N27958",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "154238972"
+    },
     "wof:country": "US",
     "wof:created": 1620144373,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
     "wof:hierarchy": [],
     "wof:id": 1730044029,
     "wof:involves": [
+      1159293215, 
       102527513, 
       102541685, 
-      1159285413, 
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1620144373,
+    "wof:lastmodified": 1620144785,
     "wof:name": "UA2802 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",

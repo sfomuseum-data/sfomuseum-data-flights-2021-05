@@ -2,10 +2,12 @@
   "id": 1730045217,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-04",
+    "date:cessation_upper": "2021-05-04",
     "date:inception_lower": "2021-05-03",
     "date:inception_upper": "2021-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-03",
+    "edtf:cessation": "2021-05-04T00:24:00Z",
+    "edtf:inception": "2021-05-03T22:52:00Z",
     "flysfo:actual_timestamp": 1620081720,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-03",
@@ -48,6 +50,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154290729"
+    },
     "wof:country": "US",
     "wof:created": 1620144693,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -84,7 +89,7 @@
       1159285591, 
       1729792447
     ],
-    "wof:lastmodified": 1620144693,
+    "wof:lastmodified": 1620144787,
     "wof:name": "WN851 (SFO-PHX)",
     "wof:parent_id": 1729792447,
     "wof:placetype": "event",
