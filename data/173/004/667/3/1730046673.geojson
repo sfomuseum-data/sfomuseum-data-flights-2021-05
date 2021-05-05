@@ -2,10 +2,12 @@
   "id": 1730046673,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-04",
-    "date:inception_upper": "2021-05-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-04",
+    "date:cessation_lower": "2021-05-04",
+    "date:cessation_upper": "2021-05-04",
+    "date:inception_lower": "2021-05-05",
+    "date:inception_upper": "2021-05-05",
+    "edtf:cessation": "2021-05-04T15:30:27-07:00",
+    "edtf:inception": "2021-05-05T03:53:00Z",
     "flysfo:actual_timestamp": 1620192960,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61492757992414,
     "lbl:longitude": -122.3823520394826,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N339NW",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154302469",
+      "swim:gufi": "KU10265400"
+    },
     "wof:country": "US",
     "wof:created": 1620230680,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -82,9 +96,10 @@
       102527513, 
       102527363, 
       1159284261, 
-      1729792473
+      1729792473, 
+      1159292085
     ],
-    "wof:lastmodified": 1620230680,
+    "wof:lastmodified": 1620231165,
     "wof:name": "DL2104 (SLC-SFO)",
     "wof:parent_id": 1729792473,
     "wof:placetype": "event",
