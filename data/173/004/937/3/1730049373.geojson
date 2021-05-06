@@ -2,10 +2,12 @@
   "id": 1730049373,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-05",
-    "date:inception_upper": "2021-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-05",
+    "date:cessation_lower": "2021-05-05",
+    "date:cessation_upper": "2021-05-05",
+    "date:inception_lower": "2021-05-06",
+    "date:inception_upper": "2021-05-06",
+    "edtf:cessation": "2021-05-05T12:20:49-07:00",
+    "edtf:inception": "2021-05-06T00:57:00Z",
     "flysfo:actual_timestamp": 1620267780,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N526AS",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -79,12 +89,13 @@
     ],
     "wof:id": 1730049373,
     "wof:involves": [
-      102527513, 
       102532251, 
       1159283813, 
-      1729792399
+      1729792399, 
+      1159289871, 
+      102527513
     ],
-    "wof:lastmodified": 1620316957,
+    "wof:lastmodified": 1620317504,
     "wof:name": "AS1303 (PDX-SFO)",
     "wof:parent_id": 1729792399,
     "wof:placetype": "event",

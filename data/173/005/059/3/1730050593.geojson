@@ -2,10 +2,12 @@
   "id": 1730050593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-05",
+    "date:cessation_upper": "2021-05-05",
     "date:inception_lower": "2021-05-05",
     "date:inception_upper": "2021-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-05",
+    "edtf:cessation": "2021-05-05T20:38:07Z",
+    "edtf:inception": "2021-05-05T15:15:00Z",
     "flysfo:actual_timestamp": 1620226500,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N594AS",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154386400"
+    },
     "wof:country": "US",
     "wof:created": 1620317299,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730050593,
     "wof:involves": [
-      102533997, 
-      102527513, 
       1159283813, 
-      1729792409
+      1729792409, 
+      1159289871, 
+      102533997, 
+      102527513
     ],
-    "wof:lastmodified": 1620317299,
+    "wof:lastmodified": 1620317505,
     "wof:name": "AS743 (SFO-HNL)",
     "wof:parent_id": 1729792409,
     "wof:placetype": "event",
