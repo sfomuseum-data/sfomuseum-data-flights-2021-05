@@ -2,10 +2,12 @@
   "id": 1730053509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-06",
+    "date:cessation_upper": "2021-05-06",
     "date:inception_lower": "2021-05-06",
     "date:inception_upper": "2021-05-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-06",
+    "edtf:cessation": "2021-05-06T19:16:59Z",
+    "edtf:inception": "2021-05-06T15:38:00Z",
     "flysfo:actual_timestamp": 1620342000,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N523AS",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154460198"
+    },
     "wof:country": "US",
     "wof:created": 1620403860,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730053509,
     "wof:involves": [
+      1159289871, 
       102533631, 
       102527513, 
       1159283813, 
       1729792407
     ],
-    "wof:lastmodified": 1620403860,
+    "wof:lastmodified": 1620404163,
     "wof:name": "AS1208 (SFO-ORD)",
     "wof:parent_id": 1729792407,
     "wof:placetype": "event",

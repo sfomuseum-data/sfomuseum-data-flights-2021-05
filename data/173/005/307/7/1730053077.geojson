@@ -2,10 +2,12 @@
   "id": 1730053077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-06",
+    "date:cessation_upper": "2021-05-06",
     "date:inception_lower": "2021-05-06",
     "date:inception_upper": "2021-05-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-06",
+    "edtf:cessation": "2021-05-06T04:26:33-07:00",
+    "edtf:inception": "2021-05-06T16:51:00Z",
     "flysfo:actual_timestamp": 1620342000,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N416UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154467897",
+      "swim:gufi": "KS50821500"
+    },
     "wof:country": "US",
     "wof:created": 1620403665,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730053077,
     "wof:involves": [
+      1159292085, 
       102527513, 
       102532251, 
       1159285413, 
       1729792501
     ],
-    "wof:lastmodified": 1620403665,
+    "wof:lastmodified": 1620404160,
     "wof:name": "UA781 (PDX-SFO)",
     "wof:parent_id": 1729792501,
     "wof:placetype": "event",

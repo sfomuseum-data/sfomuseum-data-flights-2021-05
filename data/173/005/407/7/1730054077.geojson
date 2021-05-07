@@ -2,10 +2,12 @@
   "id": 1730054077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-07",
+    "date:cessation_upper": "2021-05-07",
     "date:inception_lower": "2021-05-06",
     "date:inception_upper": "2021-05-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-06",
+    "edtf:cessation": "2021-05-07T00:12:50Z",
+    "edtf:inception": "2021-05-06T23:03:00Z",
     "flysfo:actual_timestamp": 1620341340,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-06",
@@ -48,6 +50,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154494087"
+    },
     "wof:country": "US",
     "wof:created": 1620404054,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -84,7 +89,7 @@
       1159285591, 
       1729792451
     ],
-    "wof:lastmodified": 1620404054,
+    "wof:lastmodified": 1620404164,
     "wof:name": "WN3428 (SFO-LAS)",
     "wof:parent_id": 1729792451,
     "wof:placetype": "event",
