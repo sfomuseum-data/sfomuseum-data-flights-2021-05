@@ -2,10 +2,12 @@
   "id": 1730056641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-07",
+    "date:cessation_upper": "2021-05-07",
     "date:inception_lower": "2021-05-07",
     "date:inception_upper": "2021-05-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-07",
+    "edtf:cessation": "2021-05-07T06:24:36Z",
+    "edtf:inception": "2021-05-07T05:09:00Z",
     "flysfo:actual_timestamp": 1620428400,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-07",
@@ -48,6 +50,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154514178"
+    },
     "wof:country": "US",
     "wof:created": 1620490216,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -84,7 +89,7 @@
       1159283813, 
       1729792403
     ],
-    "wof:lastmodified": 1620490216,
+    "wof:lastmodified": 1620490495,
     "wof:name": "AS1113 (SFO-PDX)",
     "wof:parent_id": 1729792403,
     "wof:placetype": "event",
