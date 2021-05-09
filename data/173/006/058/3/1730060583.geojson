@@ -2,10 +2,12 @@
   "id": 1730060583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-09",
+    "date:cessation_upper": "2021-05-09",
     "date:inception_lower": "2021-05-08",
     "date:inception_upper": "2021-05-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-08",
+    "edtf:cessation": "2021-05-09T05:44:23Z",
+    "edtf:inception": "2021-05-08T18:12:00Z",
     "flysfo:actual_timestamp": 1620514800,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.535978,
     "geom:longitude": 2.1453445,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102556451,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +56,10 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154639959",
+      "swim:gufi": "KO53110700"
+    },
     "wof:country": "US",
     "wof:created": 1620576836,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
@@ -82,9 +94,10 @@
       102556451, 
       102527513, 
       1159285413, 
-      1729792667
+      1729792667, 
+      1159289993
     ],
-    "wof:lastmodified": 1620576836,
+    "wof:lastmodified": 1620576856,
     "wof:name": "UA857 (SFO-ICN)",
     "wof:parent_id": 1729792667,
     "wof:placetype": "event",

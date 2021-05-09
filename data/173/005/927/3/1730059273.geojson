@@ -2,10 +2,12 @@
   "id": 1730059273,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-08",
+    "date:cessation_upper": "2021-05-08",
     "date:inception_lower": "2021-05-08",
     "date:inception_upper": "2021-05-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-08",
+    "edtf:cessation": "2021-05-08T18:18:57Z",
+    "edtf:inception": "2021-05-08T17:02:00Z",
     "flysfo:actual_timestamp": 1620499080,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +56,10 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154635010",
+      "swim:gufi": "KS48950700"
+    },
     "wof:country": "US",
     "wof:created": 1620576439,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -82,9 +94,10 @@
       102527513, 
       102532251, 
       1159285413, 
-      1729792655
+      1729792655, 
+      1377564285
     ],
-    "wof:lastmodified": 1620576439,
+    "wof:lastmodified": 1620576859,
     "wof:name": "UA781 (PDX-SFO)",
     "wof:parent_id": 1729792655,
     "wof:placetype": "event",

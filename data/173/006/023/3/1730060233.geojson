@@ -2,10 +2,12 @@
   "id": 1730060233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-08",
+    "date:cessation_upper": "2021-05-08",
     "date:inception_lower": "2021-05-08",
     "date:inception_upper": "2021-05-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-08",
+    "edtf:cessation": "2021-05-08T19:28:00Z",
+    "edtf:inception": "2021-05-08T18:36:00Z",
     "flysfo:actual_timestamp": 1620514800,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-08",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +53,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154642916"
+    },
     "wof:country": "US",
     "wof:created": 1620576748,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -84,7 +92,7 @@
       1159285591, 
       1729792445
     ],
-    "wof:lastmodified": 1620576748,
+    "wof:lastmodified": 1620576854,
     "wof:name": "WN2239 (SFO-BUR)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",

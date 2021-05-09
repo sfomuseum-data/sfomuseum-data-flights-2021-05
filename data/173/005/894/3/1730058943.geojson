@@ -2,10 +2,12 @@
   "id": 1730058943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-08",
+    "date:cessation_upper": "2021-05-08",
     "date:inception_lower": "2021-05-08",
     "date:inception_upper": "2021-05-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-08",
+    "edtf:cessation": "2021-05-08T19:11:02Z",
+    "edtf:inception": "2021-05-08T18:18:00Z",
     "flysfo:actual_timestamp": 1620501420,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-08",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +53,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154639993"
+    },
     "wof:country": "US",
     "wof:created": 1620576347,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -84,7 +92,7 @@
       1159285591, 
       1729792445
     ],
-    "wof:lastmodified": 1620576347,
+    "wof:lastmodified": 1620576858,
     "wof:name": "WN3207 (BUR-SFO)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",
