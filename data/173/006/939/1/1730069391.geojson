@@ -2,10 +2,12 @@
   "id": 1730069391,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-11",
-    "date:inception_upper": "2021-05-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-11",
+    "date:cessation_lower": "2021-05-12",
+    "date:cessation_upper": "2021-05-12",
+    "date:inception_lower": "2021-05-12",
+    "date:inception_upper": "2021-05-12",
+    "edtf:cessation": "2021-05-12T04:51:00Z",
+    "edtf:inception": "2021-05-12T01:35:00Z",
     "flysfo:actual_timestamp": 1620782400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N827UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO82003300"
+    },
     "wof:country": "US",
     "wof:created": 1620835900,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730069391,
     "wof:involves": [
-      102534097, 
       102527513, 
       1159285413, 
-      1729792569
+      1729792569, 
+      1159289407, 
+      102534097
     ],
-    "wof:lastmodified": 1620835900,
+    "wof:lastmodified": 1620835962,
     "wof:name": "UA2481 (SFO-IAH)",
     "wof:parent_id": 1729792569,
     "wof:placetype": "event",

@@ -2,10 +2,12 @@
   "id": 1730068363,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-11",
+    "date:cessation_upper": "2021-05-11",
     "date:inception_lower": "2021-05-11",
     "date:inception_upper": "2021-05-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-11",
+    "edtf:cessation": "2021-05-11T02:55:04-07:00",
+    "edtf:inception": "2021-05-11T11:15:00Z",
     "flysfo:actual_timestamp": 1620774000,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528817,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N824UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154801756",
+      "swim:gufi": "KW23537300"
+    },
     "wof:country": "US",
     "wof:created": 1620835594,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730068363,
     "wof:involves": [
+      1159289407, 
       102527513, 
       102528817, 
       1159285413, 
       1729792563
     ],
-    "wof:lastmodified": 1620835594,
+    "wof:lastmodified": 1620835958,
     "wof:name": "UA716 (IAD-SFO)",
     "wof:parent_id": 1729792563,
     "wof:placetype": "event",

@@ -2,10 +2,12 @@
   "id": 1730068255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-11",
+    "date:cessation_upper": "2021-05-11",
     "date:inception_lower": "2021-05-11",
     "date:inception_upper": "2021-05-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-11",
+    "edtf:cessation": "2021-05-11T04:41:06-07:00",
+    "edtf:inception": "2021-05-11T13:11:00Z",
     "flysfo:actual_timestamp": 1620758700,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2846U",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154807647",
+      "swim:gufi": "KN31414300"
+    },
     "wof:country": "US",
     "wof:created": 1620835565,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730068255,
     "wof:involves": [
+      1159289993, 
       102527513, 
       102530049, 
       1159285413, 
       1729792527
     ],
-    "wof:lastmodified": 1620835565,
+    "wof:lastmodified": 1620835960,
     "wof:name": "UA309 (EWR-SFO)",
     "wof:parent_id": 1729792527,
     "wof:placetype": "event",
