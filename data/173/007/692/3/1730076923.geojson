@@ -2,10 +2,12 @@
   "id": 1730076923,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-12",
+    "date:cessation_upper": "2021-05-12",
     "date:inception_lower": "2021-05-12",
     "date:inception_upper": "2021-05-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-12",
+    "edtf:cessation": "2021-05-12T09:47:54-07:00",
+    "edtf:inception": "2021-05-12T22:15:00Z",
     "flysfo:actual_timestamp": 1620860400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N844UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154920854",
+      "swim:gufi": "KA72174400"
+    },
     "wof:country": "US",
     "wof:created": 1620922000,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -82,9 +96,10 @@
       102527513, 
       102526751, 
       1159285413, 
-      1729792559
+      1729792559, 
+      1159289407
     ],
-    "wof:lastmodified": 1620922000,
+    "wof:lastmodified": 1620922366,
     "wof:name": "UA570 (PHX-SFO)",
     "wof:parent_id": 1729792559,
     "wof:placetype": "event",

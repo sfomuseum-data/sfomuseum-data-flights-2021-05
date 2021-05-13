@@ -2,10 +2,12 @@
   "id": 1730078135,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-12",
+    "date:cessation_upper": "2021-05-12",
     "date:inception_lower": "2021-05-12",
     "date:inception_upper": "2021-05-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-12",
+    "edtf:cessation": "2021-05-12T18:06:00Z",
+    "edtf:inception": "2021-05-12T16:39:00Z",
     "flysfo:actual_timestamp": 1620835680,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N844UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154894020",
+      "swim:gufi": "KO51436400"
+    },
     "wof:country": "US",
     "wof:created": 1620922338,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -82,9 +96,10 @@
       102526751, 
       102527513, 
       1159285413, 
-      1729792499
+      1729792499, 
+      1159289407
     ],
-    "wof:lastmodified": 1620922338,
+    "wof:lastmodified": 1620922369,
     "wof:name": "UA623 (SFO-PHX)",
     "wof:parent_id": 1729792499,
     "wof:placetype": "event",
