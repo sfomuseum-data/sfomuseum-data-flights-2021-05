@@ -2,10 +2,12 @@
   "id": 1730079587,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-13",
+    "date:cessation_upper": "2021-05-13",
     "date:inception_lower": "2021-05-13",
     "date:inception_upper": "2021-05-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-13",
+    "edtf:cessation": "2021-05-13T18:33:00Z",
+    "edtf:inception": "2021-05-13T17:37:00Z",
     "flysfo:actual_timestamp": 1620946800,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.907347,
     "geom:longitude": -120.3621325,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61266515122482,
     "lbl:longitude": -122.38444006596885,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532771,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N217JC",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "154972592"
+    },
     "wof:country": "US",
     "wof:created": 1621008405,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730079587,
     "wof:involves": [
+      1159289869, 
       102527513, 
       102532771, 
       1159285591, 
       1729792445
     ],
-    "wof:lastmodified": 1621008405,
+    "wof:lastmodified": 1621009006,
     "wof:name": "WN1578 (BUR-SFO)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",
