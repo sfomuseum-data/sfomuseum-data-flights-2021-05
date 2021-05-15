@@ -2,10 +2,12 @@
   "id": 1730082259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-14",
+    "date:cessation_upper": "2021-05-14",
     "date:inception_lower": "2021-05-14",
     "date:inception_upper": "2021-05-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-14",
+    "edtf:cessation": "2021-05-14T17:27:05Z",
+    "edtf:inception": "2021-05-14T16:03:00Z",
     "flysfo:actual_timestamp": 1621033200,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N853VA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +57,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155050235"
+    },
     "wof:country": "US",
     "wof:created": 1621094650,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -82,9 +94,10 @@
       102527513, 
       102532251, 
       1159283813, 
-      1729792399
+      1729792399, 
+      1159292085
     ],
-    "wof:lastmodified": 1621094650,
+    "wof:lastmodified": 1621095328,
     "wof:name": "AS430 (PDX-SFO)",
     "wof:parent_id": 1729792399,
     "wof:placetype": "event",

@@ -2,10 +2,12 @@
   "id": 1730084303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-14",
+    "date:cessation_upper": "2021-05-14",
     "date:inception_lower": "2021-05-14",
     "date:inception_upper": "2021-05-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-14",
+    "edtf:cessation": "2021-05-14T20:46:23Z",
+    "edtf:inception": "2021-05-14T16:09:00Z",
     "flysfo:actual_timestamp": 1621033200,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2749U",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155049432",
+      "swim:gufi": "KO48560600"
+    },
     "wof:country": "US",
     "wof:created": 1621095255,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -82,9 +96,10 @@
       102530049, 
       102527513, 
       1159285413, 
-      1729792527
+      1729792527, 
+      1159289993
     ],
-    "wof:lastmodified": 1621095255,
+    "wof:lastmodified": 1621095335,
     "wof:name": "UA2304 (SFO-EWR)",
     "wof:parent_id": 1729792527,
     "wof:placetype": "event",
