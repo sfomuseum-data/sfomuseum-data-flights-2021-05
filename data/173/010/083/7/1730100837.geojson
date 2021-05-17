@@ -2,10 +2,12 @@
   "id": 1730100837,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-17",
+    "date:cessation_upper": "2021-05-17",
     "date:inception_lower": "2021-05-16",
     "date:inception_upper": "2021-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-16",
+    "edtf:cessation": "2021-05-17T02:13:00Z",
+    "edtf:inception": "2021-05-16T21:36:00Z",
     "flysfo:actual_timestamp": 1621206000,
     "flysfo:airline": "HA",
     "flysfo:date": "2021-05-16",
@@ -48,6 +50,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155235053"
+    },
     "wof:country": "US",
     "wof:created": 1621267529,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -84,7 +89,7 @@
       1159284489, 
       1729792641
     ],
-    "wof:lastmodified": 1621267529,
+    "wof:lastmodified": 1621268121,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1729792641,
     "wof:placetype": "event",

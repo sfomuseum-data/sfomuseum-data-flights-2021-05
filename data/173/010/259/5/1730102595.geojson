@@ -2,10 +2,12 @@
   "id": 1730102595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-16",
+    "date:cessation_upper": "2021-05-16",
     "date:inception_lower": "2021-05-16",
     "date:inception_upper": "2021-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-16",
+    "edtf:cessation": "2021-05-16T19:40:00Z",
+    "edtf:inception": "2021-05-16T16:32:00Z",
     "flysfo:actual_timestamp": 1621181700,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +56,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155211765",
+      "swim:gufi": "KO51166100"
+    },
     "wof:country": "US",
     "wof:created": 1621268041,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -79,12 +91,13 @@
     ],
     "wof:id": 1730102595,
     "wof:involves": [
+      1729792505, 
+      1528104577, 
       102534097, 
       102527513, 
-      1159285413, 
-      1729792505
+      1159285413
     ],
-    "wof:lastmodified": 1621268041,
+    "wof:lastmodified": 1621268125,
     "wof:name": "UA2094 (SFO-IAH)",
     "wof:parent_id": 1729792505,
     "wof:placetype": "event",

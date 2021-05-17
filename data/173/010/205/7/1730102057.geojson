@@ -2,10 +2,12 @@
   "id": 1730102057,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-16",
-    "date:inception_upper": "2021-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-16",
+    "date:cessation_lower": "2021-05-17",
+    "date:cessation_upper": "2021-05-17",
+    "date:inception_lower": "2021-05-17",
+    "date:inception_upper": "2021-05-17",
+    "edtf:cessation": "2021-05-17T05:02:00Z",
+    "edtf:inception": "2021-05-17T00:52:00Z",
     "flysfo:actual_timestamp": 1621206000,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "B764",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614921058692055,
     "lbl:longitude": -122.38233552667353,
+    "sfomuseum:aircraft_id": 1394298249,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +56,10 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155224428",
+      "swim:gufi": "KO83348100"
+    },
     "wof:country": "US",
     "wof:created": 1621267849,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -82,9 +94,10 @@
       102526927, 
       102527513, 
       1159284261, 
-      1729792477
+      1729792477, 
+      1394298249
     ],
-    "wof:lastmodified": 1621267849,
+    "wof:lastmodified": 1621268124,
     "wof:name": "DL715 (SFO-ATL)",
     "wof:parent_id": 1729792477,
     "wof:placetype": "event",

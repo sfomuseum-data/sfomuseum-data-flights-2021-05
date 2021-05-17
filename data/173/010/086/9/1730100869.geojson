@@ -2,10 +2,12 @@
   "id": 1730100869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-17",
+    "date:cessation_upper": "2021-05-17",
     "date:inception_lower": "2021-05-16",
     "date:inception_upper": "2021-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-16",
+    "edtf:cessation": "2021-05-17T02:54:00Z",
+    "edtf:inception": "2021-05-16T23:19:00Z",
     "flysfo:actual_timestamp": 1621206000,
     "flysfo:airline": "B6",
     "flysfo:date": "2021-05-16",
@@ -48,6 +50,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155241227"
+    },
     "wof:country": "US",
     "wof:created": 1621267538,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -84,7 +89,7 @@
       1159284583, 
       1729792443
     ],
-    "wof:lastmodified": 1621267538,
+    "wof:lastmodified": 1621268121,
     "wof:name": "B61577 (AUS-SFO)",
     "wof:parent_id": 1729792443,
     "wof:placetype": "event",
