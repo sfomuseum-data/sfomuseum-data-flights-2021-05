@@ -2,10 +2,12 @@
   "id": 1730104411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-17",
+    "date:cessation_upper": "2021-05-17",
     "date:inception_lower": "2021-05-17",
     "date:inception_upper": "2021-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-17",
+    "edtf:cessation": "2021-05-17T18:19:00Z",
+    "edtf:inception": "2021-05-17T16:08:00Z",
     "flysfo:actual_timestamp": 1621292400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.4645545,
     "geom:longitude": -113.444008,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530535,
@@ -48,6 +52,10 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155238151",
+      "swim:gufi": "KA58004200"
+    },
     "wof:country": "US",
     "wof:created": 1621354059,
     "wof:geomhash": "e3c6a1a6f8d45a2660e783ca1e486101",
@@ -79,12 +87,13 @@
     ],
     "wof:id": 1730104411,
     "wof:involves": [
+      1159289985, 
       102527513, 
       102530535, 
       1159285413, 
       1729792671
     ],
-    "wof:lastmodified": 1621354059,
+    "wof:lastmodified": 1621354488,
     "wof:name": "UA2723 (ROW-SFO)",
     "wof:parent_id": 1729792671,
     "wof:placetype": "event",

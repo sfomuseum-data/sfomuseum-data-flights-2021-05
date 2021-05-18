@@ -2,10 +2,12 @@
   "id": 1730104287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-17",
+    "date:cessation_upper": "2021-05-17",
     "date:inception_lower": "2021-05-17",
     "date:inception_upper": "2021-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-17",
+    "edtf:cessation": "2021-05-17T04:40:18-07:00",
+    "edtf:inception": "2021-05-17T16:32:00Z",
     "flysfo:actual_timestamp": 1621277220,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61266515122482,
     "lbl:longitude": -122.38444006596885,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N465WN",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155279230"
+    },
     "wof:country": "US",
     "wof:created": 1621354027,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -82,9 +95,10 @@
       102527513, 
       102531189, 
       1159285591, 
-      1729792445
+      1729792445, 
+      1159289869
     ],
-    "wof:lastmodified": 1621354027,
+    "wof:lastmodified": 1621354487,
     "wof:name": "WN1654 (DEN-SFO)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",

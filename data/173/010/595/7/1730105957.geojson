@@ -2,10 +2,12 @@
   "id": 1730105957,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-17",
-    "date:inception_upper": "2021-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-17",
+    "date:cessation_lower": "2021-05-18",
+    "date:cessation_upper": "2021-05-18",
+    "date:inception_lower": "2021-05-18",
+    "date:inception_upper": "2021-05-18",
+    "edtf:cessation": "2021-05-18T15:57:10Z",
+    "edtf:inception": "2021-05-18T04:52:00Z",
     "flysfo:actual_timestamp": 1621292400,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.5509395,
     "geom:longitude": 11.213139500000004,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102535777,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2333U",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO06902300"
+    },
     "wof:country": "US",
     "wof:created": 1621354457,
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730105957,
     "wof:involves": [
+      1729792659, 
+      1159289993, 
       102535777, 
       102527513, 
-      1159285413, 
-      1729792659
+      1159285413
     ],
-    "wof:lastmodified": 1621354457,
+    "wof:lastmodified": 1621354492,
     "wof:name": "UA871 (SFO-GUM)",
     "wof:parent_id": 1729792659,
     "wof:placetype": "event",

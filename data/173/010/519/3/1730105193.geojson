@@ -2,10 +2,12 @@
   "id": 1730105193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-17",
+    "date:cessation_upper": "2021-05-17",
     "date:inception_lower": "2021-05-17",
     "date:inception_upper": "2021-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-17",
+    "edtf:cessation": "2021-05-17T14:40:00Z",
+    "edtf:inception": "2021-05-17T13:12:00Z",
     "flysfo:actual_timestamp": 1621292400,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N368NB",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155264309",
+      "swim:gufi": "KO43869200"
+    },
     "wof:country": "US",
     "wof:created": 1621354259,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -82,9 +96,10 @@
       102527363, 
       102527513, 
       1159284261, 
-      1729792425
+      1729792425, 
+      1159289407
     ],
-    "wof:lastmodified": 1621354259,
+    "wof:lastmodified": 1621354490,
     "wof:name": "DL1211 (SFO-SLC)",
     "wof:parent_id": 1729792425,
     "wof:placetype": "event",

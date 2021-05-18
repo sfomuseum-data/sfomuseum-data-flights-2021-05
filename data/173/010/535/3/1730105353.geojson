@@ -2,10 +2,12 @@
   "id": 1730105353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-18",
+    "date:cessation_upper": "2021-05-18",
     "date:inception_lower": "2021-05-17",
     "date:inception_upper": "2021-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-17",
+    "edtf:cessation": "2021-05-18T00:26:47Z",
+    "edtf:inception": "2021-05-17T22:46:00Z",
     "flysfo:actual_timestamp": 1621292400,
     "flysfo:airline": "F9",
     "flysfo:date": "2021-05-17",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +53,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155307340"
+    },
     "wof:country": "US",
     "wof:created": 1621354301,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -84,7 +92,7 @@
       1159284401, 
       1729792601
     ],
-    "wof:lastmodified": 1621354301,
+    "wof:lastmodified": 1621354490,
     "wof:name": "F92790 (SFO-PHX)",
     "wof:parent_id": 1729792601,
     "wof:placetype": "event",
