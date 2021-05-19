@@ -2,10 +2,12 @@
   "id": 1730107571,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-18",
+    "date:cessation_upper": "2021-05-18",
     "date:inception_lower": "2021-05-18",
     "date:inception_upper": "2021-05-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-18",
+    "edtf:cessation": "2021-05-18T17:40:41Z",
+    "edtf:inception": "2021-05-18T13:11:00Z",
     "flysfo:actual_timestamp": 1621378800,
     "flysfo:airline": "AA",
     "flysfo:date": "2021-05-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.260825,
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "lbl:latitude": 37.610999204937734,
     "lbl:longitude": -122.3855542651668,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N962NN",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155332574",
+      "swim:gufi": "KO42335300"
+    },
     "wof:country": "US",
     "wof:created": 1621440420,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730107571,
     "wof:involves": [
+      1159289871, 
       102528541, 
       102527513, 
       1159283849, 
       1729792457
     ],
-    "wof:lastmodified": 1621440420,
+    "wof:lastmodified": 1621440729,
     "wof:name": "AA1198 (SFO-DFW)",
     "wof:parent_id": 1729792457,
     "wof:placetype": "event",

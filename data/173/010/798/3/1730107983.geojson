@@ -2,10 +2,12 @@
   "id": 1730107983,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-18",
+    "date:cessation_upper": "2021-05-18",
     "date:inception_lower": "2021-05-18",
     "date:inception_upper": "2021-05-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-18",
+    "edtf:cessation": "2021-05-18T16:35:00Z",
+    "edtf:inception": "2021-05-18T13:22:00Z",
     "flysfo:actual_timestamp": 1621378800,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N339NW",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155332486",
+      "swim:gufi": "KO44769300"
+    },
     "wof:country": "US",
     "wof:created": 1621440527,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730107983,
     "wof:involves": [
+      1159292085, 
       102531131, 
       102527513, 
       1159284261, 
       1729792421
     ],
-    "wof:lastmodified": 1621440527,
+    "wof:lastmodified": 1621440726,
     "wof:name": "DL1144 (SFO-MSP)",
     "wof:parent_id": 1729792421,
     "wof:placetype": "event",
