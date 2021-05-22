@@ -2,10 +2,12 @@
   "id": 1730117431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-22",
+    "date:cessation_upper": "2021-05-22",
     "date:inception_lower": "2021-05-21",
     "date:inception_upper": "2021-05-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-21",
+    "edtf:cessation": "2021-05-22T00:14:00Z",
+    "edtf:inception": "2021-05-21T21:05:00Z",
     "flysfo:actual_timestamp": 1621630020,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N352NW",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155602873",
+      "swim:gufi": "KO72062600"
+    },
     "wof:country": "US",
     "wof:created": 1621700006,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730117431,
     "wof:involves": [
+      1159292085, 
       102531131, 
       102527513, 
       1159284261, 
       1729792465
     ],
-    "wof:lastmodified": 1621700006,
+    "wof:lastmodified": 1621700236,
     "wof:name": "DL835 (SFO-MSP)",
     "wof:parent_id": 1729792465,
     "wof:placetype": "event",

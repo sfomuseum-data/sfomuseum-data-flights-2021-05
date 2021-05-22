@@ -2,10 +2,12 @@
   "id": 1730117427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-21",
+    "date:cessation_upper": "2021-05-21",
     "date:inception_lower": "2021-05-21",
     "date:inception_upper": "2021-05-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-21",
+    "edtf:cessation": "2021-05-21T23:40:00Z",
+    "edtf:inception": "2021-05-21T19:34:00Z",
     "flysfo:actual_timestamp": 1621624080,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N343DN",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155593953",
+      "swim:gufi": "KO65701600"
+    },
     "wof:country": "US",
     "wof:created": 1621700005,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730117427,
     "wof:involves": [
+      1159289411, 
       102525635, 
       102527513, 
       1159284261, 
       1729792465
     ],
-    "wof:lastmodified": 1621700005,
+    "wof:lastmodified": 1621700236,
     "wof:name": "DL773 (SFO-DTW)",
     "wof:parent_id": 1729792465,
     "wof:placetype": "event",

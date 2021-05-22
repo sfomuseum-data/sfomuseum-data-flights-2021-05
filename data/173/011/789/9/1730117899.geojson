@@ -2,10 +2,12 @@
   "id": 1730117899,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-21",
+    "date:cessation_upper": "2021-05-21",
     "date:inception_lower": "2021-05-21",
     "date:inception_upper": "2021-05-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-21",
+    "edtf:cessation": "2021-05-21T19:51:05Z",
+    "edtf:inception": "2021-05-21T02:11:08-07:00",
     "flysfo:actual_timestamp": 1621612620,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37464",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155575477",
+      "swim:gufi": "KO51307600"
+    },
     "wof:country": "US",
     "wof:created": 1621700134,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -82,9 +96,10 @@
       102533631, 
       102527513, 
       1159285413, 
-      1729792565
+      1729792565, 
+      1377564285
     ],
-    "wof:lastmodified": 1621700134,
+    "wof:lastmodified": 1621700238,
     "wof:name": "UA1400 (SFO-ORD)",
     "wof:parent_id": 1729792565,
     "wof:placetype": "event",

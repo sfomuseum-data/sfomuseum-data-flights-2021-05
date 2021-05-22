@@ -2,10 +2,12 @@
   "id": 1730116221,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-21",
-    "date:inception_upper": "2021-05-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-21",
+    "date:cessation_lower": "2021-05-21",
+    "date:cessation_upper": "2021-05-21",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2021-05-21T03:36:26-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1621638000,
     "flysfo:airline": "B6",
     "flysfo:date": "2021-05-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.7471565,
     "geom:longitude": -100.580671,
     "iata:airline": "B6",
+    "icao:aircraft": "A320",
     "icao:airline": "JBU",
     "lbl:latitude": 37.61309936599394,
     "lbl:longitude": -122.38420616247333,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528779,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N763JB",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -79,12 +89,13 @@
     ],
     "wof:id": 1730116221,
     "wof:involves": [
-      102527513, 
       102528779, 
       1159284583, 
-      1729792443
+      1729792443, 
+      1159292085, 
+      102527513
     ],
-    "wof:lastmodified": 1621699627,
+    "wof:lastmodified": 1621700230,
     "wof:name": "B62707 (RDU-SFO)",
     "wof:parent_id": 1729792443,
     "wof:placetype": "event",
