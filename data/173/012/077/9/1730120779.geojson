@@ -2,10 +2,12 @@
   "id": 1730120779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-23",
+    "date:cessation_upper": "2021-05-23",
     "date:inception_lower": "2021-05-22",
     "date:inception_upper": "2021-05-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-22",
+    "edtf:cessation": "2021-05-23T00:12:02Z",
+    "edtf:inception": "2021-05-22T20:15:00Z",
     "flysfo:actual_timestamp": 1621713960,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.702760999999995,
     "geom:longitude": -105.058423,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61266515122482,
     "lbl:longitude": -122.38444006596885,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531205,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8641B",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -82,9 +92,10 @@
       102531205, 
       102527513, 
       1159285591, 
-      1729792445
+      1729792445, 
+      1159289871
     ],
-    "wof:lastmodified": 1621786529,
+    "wof:lastmodified": 1621786653,
     "wof:name": "WN3207 (SFO-MDW)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",

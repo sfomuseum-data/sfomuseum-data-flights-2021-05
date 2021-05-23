@@ -2,10 +2,12 @@
   "id": 1730119645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-22",
+    "date:cessation_upper": "2021-05-22",
     "date:inception_lower": "2021-05-22",
     "date:inception_upper": "2021-05-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-22",
+    "edtf:cessation": "2021-05-22T03:48:51-07:00",
+    "edtf:inception": "2021-05-22T12:24:00Z",
     "flysfo:actual_timestamp": 1621705980,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.130638000000005,
     "geom:longitude": -98.07939400000001,
     "iata:airline": "UA",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534365,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N665UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155637734",
+      "swim:gufi": "KN22848700"
+    },
     "wof:country": "US",
     "wof:created": 1621786108,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730119645,
     "wof:involves": [
+      1159289965, 
       102527513, 
       102534365, 
       1159285413, 
       1729792537
     ],
-    "wof:lastmodified": 1621786108,
+    "wof:lastmodified": 1621786655,
     "wof:name": "UA521 (JFK-SFO)",
     "wof:parent_id": 1729792537,
     "wof:placetype": "event",
