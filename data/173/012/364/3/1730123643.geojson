@@ -2,10 +2,12 @@
   "id": 1730123643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-24",
+    "date:cessation_upper": "2021-05-24",
     "date:inception_lower": "2021-05-23",
     "date:inception_upper": "2021-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-23",
+    "edtf:cessation": "2021-05-24T00:14:00Z",
+    "edtf:inception": "2021-05-23T23:06:00Z",
     "flysfo:actual_timestamp": 1621810200,
     "flysfo:airline": "F9",
     "flysfo:date": "2021-05-23",
@@ -48,6 +50,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155756642"
+    },
     "wof:country": "US",
     "wof:created": 1621872867,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -84,7 +89,7 @@
       1159284401, 
       1729792587
     ],
-    "wof:lastmodified": 1621872867,
+    "wof:lastmodified": 1621873117,
     "wof:name": "F92076 (SFO-LAS)",
     "wof:parent_id": 1729792587,
     "wof:placetype": "event",
