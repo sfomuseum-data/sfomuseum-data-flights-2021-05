@@ -2,10 +2,12 @@
   "id": 1730125843,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-24",
+    "date:cessation_upper": "2021-05-24",
     "date:inception_lower": "2021-05-24",
     "date:inception_upper": "2021-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-24",
+    "edtf:cessation": "2021-05-24T04:27:57-07:00",
+    "edtf:inception": "2021-05-24T17:02:00Z",
     "flysfo:actual_timestamp": 1621881120,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N453UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155796212",
+      "swim:gufi": "KS50471200"
+    },
     "wof:country": "US",
     "wof:created": 1621959078,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -82,9 +96,10 @@
       102527513, 
       102532251, 
       1159285413, 
-      1729792507
+      1729792507, 
+      1159292085
     ],
-    "wof:lastmodified": 1621959078,
+    "wof:lastmodified": 1621959510,
     "wof:name": "UA781 (PDX-SFO)",
     "wof:parent_id": 1729792507,
     "wof:placetype": "event",

@@ -2,10 +2,12 @@
   "id": 1730127089,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2021-05-24",
     "date:inception_upper": "2021-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-24",
+    "edtf:cessation": "2021-05-25T02:51:10Z",
+    "edtf:inception": "2021-05-24T16:37:00Z",
     "flysfo:actual_timestamp": 1621897200,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61878850212531,
     "lbl:longitude": -122.39322967402006,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102541685,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N77006",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155785994",
+      "swim:gufi": "KO45778200"
+    },
     "wof:country": "US",
     "wof:created": 1621959416,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -82,9 +96,10 @@
       102541685, 
       102527513, 
       1159285413, 
-      1729792675
+      1729792675, 
+      1159289985
     ],
-    "wof:lastmodified": 1621959416,
+    "wof:lastmodified": 1621959514,
     "wof:name": "UA2725 (SFO-NRT)",
     "wof:parent_id": 1729792675,
     "wof:placetype": "event",

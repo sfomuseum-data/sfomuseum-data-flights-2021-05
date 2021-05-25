@@ -2,10 +2,12 @@
   "id": 1730126145,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-24",
-    "date:inception_upper": "2021-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-24",
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2021-05-24T17:17:16-07:00",
     "flysfo:actual_timestamp": 1621897200,
     "flysfo:airline": "AM",
     "flysfo:date": "2021-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.0718085,
     "geom:longitude": -112.83645849999999,
     "iata:airline": "AM",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "lbl:latitude": 37.613871,
     "lbl:longitude": -122.389004,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536387,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "XADRA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -79,12 +88,13 @@
     ],
     "wof:id": 1730126145,
     "wof:involves": [
+      1729792583, 
+      1159289871, 
       102536387, 
       102527513, 
-      1159283539, 
-      1729792583
+      1159283539
     ],
-    "wof:lastmodified": 1621959166,
+    "wof:lastmodified": 1621959506,
     "wof:name": "AM609 (SFO-GDL)",
     "wof:parent_id": 1729792583,
     "wof:placetype": "event",

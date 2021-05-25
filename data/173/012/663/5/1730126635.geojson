@@ -2,10 +2,12 @@
   "id": 1730126635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-24",
+    "date:cessation_upper": "2021-05-24",
     "date:inception_lower": "2021-05-24",
     "date:inception_upper": "2021-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-24",
+    "edtf:cessation": "2021-05-24T19:15:54Z",
+    "edtf:inception": "2021-05-24T18:10:00Z",
     "flysfo:actual_timestamp": 1621878840,
     "flysfo:airline": "F9",
     "flysfo:date": "2021-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "F9",
+    "icao:aircraft": "A321",
     "icao:airline": "FFT",
     "lbl:latitude": 37.612674,
     "lbl:longitude": -122.389174,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N716FR",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155801352"
+    },
     "wof:country": "US",
     "wof:created": 1621959296,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -82,9 +95,10 @@
       102527209, 
       102527513, 
       1159284401, 
-      1729792587
+      1729792587, 
+      1159289411
     ],
-    "wof:lastmodified": 1621959296,
+    "wof:lastmodified": 1621959512,
     "wof:name": "F92078 (SFO-LAS)",
     "wof:parent_id": 1729792587,
     "wof:placetype": "event",
