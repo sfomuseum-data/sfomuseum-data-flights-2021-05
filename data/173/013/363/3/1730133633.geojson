@@ -2,10 +2,12 @@
   "id": 1730133633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-27",
+    "date:cessation_upper": "2021-05-27",
     "date:inception_lower": "2021-05-27",
     "date:inception_upper": "2021-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-27",
+    "edtf:cessation": "2021-05-27T21:24:13Z",
+    "edtf:inception": "2021-05-27T10:40:00Z",
     "flysfo:actual_timestamp": 1622156400,
     "flysfo:airline": "SK",
     "flysfo:date": "2021-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 46.622809000000004,
     "geom:longitude": -54.860681,
     "iata:airline": "SK",
+    "icao:aircraft": "A333",
     "icao:airline": "SAS",
     "lbl:latitude": 37.61776,
     "lbl:longitude": -122.3918,
+    "sfomuseum:aircraft_id": 1159289423,
     "sfomuseum:airline_id": 1159285129,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102544207,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "SEREH",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155992435"
+    },
     "wof:country": "US",
     "wof:created": 1622217984,
     "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730133633,
     "wof:involves": [
-      102527513, 
       102544207, 
       1159285129, 
-      1729792655
+      1729792655, 
+      1159289423, 
+      102527513
     ],
-    "wof:lastmodified": 1622217984,
+    "wof:lastmodified": 1622218509,
     "wof:name": "SK935 (CPH-SFO)",
     "wof:parent_id": 1729792655,
     "wof:placetype": "event",

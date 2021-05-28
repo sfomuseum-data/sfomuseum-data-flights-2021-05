@@ -2,10 +2,12 @@
   "id": 1730133115,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-05-27",
-    "date:inception_upper": "2021-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-27",
+    "date:cessation_lower": "2021-05-27",
+    "date:cessation_upper": "2021-05-27",
+    "date:inception_lower": "2021-05-28",
+    "date:inception_upper": "2021-05-28",
+    "edtf:cessation": "2021-05-27T12:45:26-07:00",
+    "edtf:inception": "2021-05-28T01:19:00Z",
     "flysfo:actual_timestamp": 1622170620,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N361VA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155977300"
+    },
     "wof:country": "US",
     "wof:created": 1622217849,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730133115,
     "wof:involves": [
-      102527513, 
-      102532251, 
       1159283813, 
-      1729792417
+      1729792417, 
+      1159292085, 
+      102527513, 
+      102532251
     ],
-    "wof:lastmodified": 1622217849,
+    "wof:lastmodified": 1622218505,
     "wof:name": "AS1303 (PDX-SFO)",
     "wof:parent_id": 1729792417,
     "wof:placetype": "event",

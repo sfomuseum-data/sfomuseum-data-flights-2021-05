@@ -2,10 +2,12 @@
   "id": 1730135433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-27",
+    "date:cessation_upper": "2021-05-27",
     "date:inception_lower": "2021-05-27",
     "date:inception_upper": "2021-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-27",
+    "edtf:cessation": "2021-05-27T14:44:00Z",
+    "edtf:inception": "2021-05-27T12:41:00Z",
     "flysfo:actual_timestamp": 1622118360,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618578,
     "lbl:longitude": -122.385434,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +57,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "155998625",
+      "swim:gufi": "KO33472500"
+    },
     "wof:country": "US",
     "wof:created": 1622218458,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -79,12 +92,13 @@
     ],
     "wof:id": 1730135433,
     "wof:involves": [
+      1528104577, 
       102531189, 
       102527513, 
       1159285413, 
       1729792497
     ],
-    "wof:lastmodified": 1622218458,
+    "wof:lastmodified": 1622218522,
     "wof:name": "UA602 (SFO-DEN)",
     "wof:parent_id": 1729792497,
     "wof:placetype": "event",

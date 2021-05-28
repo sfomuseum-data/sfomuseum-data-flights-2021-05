@@ -2,10 +2,12 @@
   "id": 1730135309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-28",
+    "date:cessation_upper": "2021-05-28",
     "date:inception_lower": "2021-05-27",
     "date:inception_upper": "2021-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-27",
+    "edtf:cessation": "2021-05-28T03:29:00Z",
+    "edtf:inception": "2021-05-27T12:09:25-07:00",
     "flysfo:actual_timestamp": 1622166420,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +57,9 @@
       1729792579, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO85585500"
+    },
     "wof:country": "US",
     "wof:created": 1622218425,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -82,9 +94,10 @@
       102532251, 
       102527513, 
       1159285413, 
-      1729792651
+      1729792651, 
+      1159292085
     ],
-    "wof:lastmodified": 1622218425,
+    "wof:lastmodified": 1622218521,
     "wof:name": "UA389 (SFO-PDX)",
     "wof:parent_id": 1729792651,
     "wof:placetype": "event",
