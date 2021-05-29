@@ -2,10 +2,12 @@
   "id": 1730137127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-28",
+    "date:cessation_upper": "2021-05-28",
     "date:inception_lower": "2021-05-28",
     "date:inception_upper": "2021-05-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-28",
+    "edtf:cessation": "2021-05-28T10:47:48-07:00",
+    "edtf:inception": "2021-05-28T21:06:00Z",
     "flysfo:actual_timestamp": 1622242800,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N876UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "156129873",
+      "swim:gufi": "KH68544600"
+    },
     "wof:country": "US",
     "wof:created": 1622304456,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730137127,
     "wof:involves": [
-      102527513, 
       102521851, 
       1159285413, 
-      1729792535
+      1729792535, 
+      1159289407, 
+      102527513
     ],
-    "wof:lastmodified": 1622304456,
+    "wof:lastmodified": 1622304903,
     "wof:name": "UA306 (AUS-SFO)",
     "wof:parent_id": 1729792535,
     "wof:placetype": "event",

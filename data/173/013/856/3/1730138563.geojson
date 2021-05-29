@@ -2,10 +2,12 @@
   "id": 1730138563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-28",
+    "date:cessation_upper": "2021-05-28",
     "date:inception_lower": "2021-05-28",
     "date:inception_upper": "2021-05-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-28",
+    "edtf:cessation": "2021-05-28T22:51:00Z",
+    "edtf:inception": "2021-05-28T17:56:00Z",
     "flysfo:actual_timestamp": 1622223420,
     "flysfo:airline": "UA",
     "flysfo:date": "2021-05-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B763",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N643UA",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,10 @@
       1729792487, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "156112272",
+      "swim:gufi": "KO55571600"
+    },
     "wof:country": "US",
     "wof:created": 1622304813,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -79,12 +93,13 @@
     ],
     "wof:id": 1730138563,
     "wof:involves": [
+      1159289965, 
       102530049, 
       102527513, 
       1159285413, 
       1729792543
     ],
-    "wof:lastmodified": 1622304813,
+    "wof:lastmodified": 1622304907,
     "wof:name": "UA2603 (SFO-EWR)",
     "wof:parent_id": 1729792543,
     "wof:placetype": "event",
