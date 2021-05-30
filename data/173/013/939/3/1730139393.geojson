@@ -2,10 +2,12 @@
   "id": 1730139393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-30",
+    "date:cessation_upper": "2021-05-30",
     "date:inception_lower": "2021-05-29",
     "date:inception_upper": "2021-05-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-29",
+    "edtf:cessation": "2021-05-30T04:10:47Z",
+    "edtf:inception": "2021-05-29T23:15:00Z",
     "flysfo:actual_timestamp": 1622347980,
     "flysfo:airline": "AS",
     "flysfo:date": "2021-05-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.256470999999998,
     "geom:longitude": -139.40440999999998,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532929,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-approach"
+    ],
+    "swim:tail_number": "N529AS",
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +58,9 @@
       1729792389, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "156217474"
+    },
     "wof:country": "US",
     "wof:created": 1622390648,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -82,9 +95,10 @@
       102527513, 
       102532929, 
       1159283813, 
-      1729792405
+      1729792405, 
+      1159289871
     ],
-    "wof:lastmodified": 1622390648,
+    "wof:lastmodified": 1622391230,
     "wof:name": "AS884 (OGG-SFO)",
     "wof:parent_id": 1729792405,
     "wof:placetype": "event",
