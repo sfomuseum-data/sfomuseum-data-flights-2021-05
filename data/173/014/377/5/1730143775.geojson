@@ -2,10 +2,12 @@
   "id": 1730143775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-31",
+    "date:cessation_upper": "2021-05-31",
     "date:inception_lower": "2021-05-30",
     "date:inception_upper": "2021-05-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-30",
+    "edtf:cessation": "2021-05-31T05:02:00Z",
+    "edtf:inception": "2021-05-30T13:49:38-07:00",
     "flysfo:actual_timestamp": 1622415600,
     "flysfo:airline": "DL",
     "flysfo:date": "2021-05-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "DL",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,19 +38,27 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path", 
+      "swim-takeoff"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO07266200"
+    },
     "wof:country": "US",
     "wof:created": 1622477444,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [],
     "wof:id": 1730143775,
     "wof:involves": [
+      1159289411, 
       102528997, 
       102527513, 
-      1159284261, 
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1622477444,
+    "wof:lastmodified": 1622477675,
     "wof:name": "DL8886 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
