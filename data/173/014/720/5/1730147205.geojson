@@ -2,10 +2,12 @@
   "id": 1730147205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-31",
+    "date:cessation_upper": "2021-05-31",
     "date:inception_lower": "2021-05-31",
     "date:inception_upper": "2021-05-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2021-05-31",
+    "edtf:cessation": "2021-05-31T14:29:19Z",
+    "edtf:inception": "2021-05-31T12:59:00Z",
     "flysfo:actual_timestamp": 1622502000,
     "flysfo:airline": "WN",
     "flysfo:date": "2021-05-31",
@@ -34,6 +36,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route", 
+      "swim-path"
+    ],
     "wof:belongsto": [
       1729792387, 
       102527513, 
@@ -48,6 +54,9 @@
       1729792435, 
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "156299121"
+    },
     "wof:country": "US",
     "wof:created": 1622563984,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -84,7 +93,7 @@
       1159285591, 
       1729792445
     ],
-    "wof:lastmodified": 1622563984,
+    "wof:lastmodified": 1622564112,
     "wof:name": "WN1906 (SFO-PHX)",
     "wof:parent_id": 1729792445,
     "wof:placetype": "event",
