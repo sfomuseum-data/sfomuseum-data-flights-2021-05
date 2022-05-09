@@ -17,19 +17,19 @@
     "flysfo:scheduled_timestamp": 1620779400,
     "flysfo:timestamp": 1620779400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,-112.501507,45.952962",
+    "geom:latitude": 41.785476,
+    "geom:longitude": -117.43622500000001,
     "iata:airline": "F9",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
     "sfomuseum:airline_id": 1159284401,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102527603,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210511-D-FFT-1234",
     "sfomuseum:flight_number": [
-      "FFT1234", 
+      "FFT1234",
       "F91234"
     ],
     "sfomuseum:placetype": "flight",
@@ -37,16 +37,20 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1620835800,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
-    "wof:hierarchy": [],
+    "wof:geomhash": "a22c1e7d67cb422a133204eb8c63d822",
+    "wof:hierarchy": [
+      {
+        "event_id": 1730069029
+      }
+    ],
     "wof:id": 1730069029,
     "wof:involves": [
-      -1, 
-      102527513, 
-      1159284401, 
+      -1,
+      102527513,
+      1159284401,
       -1
     ],
-    "wof:lastmodified": 1620835800,
+    "wof:lastmodified": 1652122010,
     "wof:name": "F91234 (SFO-BTM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
@@ -55,10 +59,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    0, 
-    0, 
-    37.61799
+    -122.370943,
+    37.61799,
+    -112.501507,
+    45.952962
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-112.501507,45.952962]],"type":"MultiPoint"}
 }
