@@ -49,9 +49,9 @@
       85922583,
       554784711,
       85688637,
-      1729792583,
       1729792579,
-      102085387
+      102085387,
+      1729792613
     ],
     "wof:country": "US",
     "wof:created": 1620576323,
@@ -68,7 +68,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1729792583,
+        "venue_id": 1729792613,
         "wing_id": 1729792579
       },
       {
@@ -80,7 +80,7 @@
         "county_id": 102085387,
         "event_id": 1730058857,
         "region_id": 85688637,
-        "venue_id": 1729792583,
+        "venue_id": 1729792613,
         "wing_id": 1729792579
       }
     ],
@@ -92,9 +92,9 @@
       1729792583,
       1159286153
     ],
-    "wof:lastmodified": 1651262233,
+    "wof:lastmodified": 1653096785,
     "wof:name": "MH9733 (DOH-SFO)",
-    "wof:parent_id": 1729792583,
+    "wof:parent_id": 1729792613,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],

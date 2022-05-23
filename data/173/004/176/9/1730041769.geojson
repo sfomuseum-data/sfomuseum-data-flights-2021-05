@@ -33,30 +33,30 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210502-D-SCX-392",
     "sfomuseum:flight_number": [
-      "SCX392", 
+      "SCX392",
       "SY392"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N832SY",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792581, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792585, 
-      1729792579, 
-      102085387
+      1729792387,
+      102527513,
+      1729792581,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792579,
+      102085387,
+      1729792617
     ],
     "wof:concordances": {
       "swim:flight_ref": "154210291"
@@ -72,12 +72,13 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1730041769,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1729792585,
+        "venue_id": 1729792617,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -85,31 +86,32 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1730041769,
         "region_id": 85688637,
-        "venue_id": 1729792585,
+        "venue_id": 1729792617,
         "wing_id": 1729792579
       }
     ],
     "wof:id": 1730041769,
     "wof:involves": [
-      1159285227, 
-      1729792585, 
-      1159289871, 
-      102531131, 
+      1159285227,
+      1729792585,
+      1159289871,
+      102531131,
       102527513
     ],
-    "wof:lastmodified": 1620058450,
+    "wof:lastmodified": 1653096779,
     "wof:name": "SY392 (SFO-MSP)",
-    "wof:parent_id": 1729792585,
+    "wof:parent_id": 1729792617,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

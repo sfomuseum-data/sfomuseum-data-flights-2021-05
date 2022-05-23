@@ -33,30 +33,30 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210526-D-JAL-57",
     "sfomuseum:flight_number": [
-      "JAL57", 
+      "JAL57",
       "JL57"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "JA880J",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792581, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792591, 
-      1729792579, 
-      102085387
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1745882083,
+      1745882337,
+      1745882377,
+      1745882335
     ],
     "wof:concordances": {
       "swim:flight_ref": "155961244"
@@ -66,50 +66,52 @@
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
     "wof:hierarchy": [
       {
-        "building_id": 1729792387,
+        "building_id": 1745882083,
         "campus_id": 102527513,
-        "concourse_id": 1729792581,
+        "concourse_id": 1745882337,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1730132053,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1729792591,
-        "wing_id": 1729792579
-      }, 
+        "venue_id": 1745882377,
+        "wing_id": 1745882335
+      },
       {
-        "building_id": 1729792387,
+        "building_id": 1745882083,
         "campus_id": 102527513,
-        "concourse_id": 1729792581,
+        "concourse_id": 1745882337,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1730132053,
         "region_id": 85688637,
-        "venue_id": 1729792591,
-        "wing_id": 1729792579
+        "venue_id": 1745882377,
+        "wing_id": 1745882335
       }
     ],
     "wof:id": 1730132053,
     "wof:involves": [
-      1159293215, 
-      102541685, 
-      102527513, 
-      1159284563, 
+      1159293215,
+      102541685,
+      102527513,
+      1159284563,
       1729792591
     ],
-    "wof:lastmodified": 1622132316,
+    "wof:lastmodified": 1653096807,
     "wof:name": "JL57 (SFO-NRT)",
-    "wof:parent_id": 1729792591,
+    "wof:parent_id": 1745882377,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}

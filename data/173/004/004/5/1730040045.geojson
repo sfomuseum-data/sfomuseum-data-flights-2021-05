@@ -33,30 +33,31 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20210502-A-BAW-287",
     "sfomuseum:flight_number": [
-      "BAW287", 
+      "BAW287",
       "BA287"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "GSTBG",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792581, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792595, 
-      1729792579, 
-      102085387
+      1729792387,
+      102527513,
+      1729792581,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792595,
+      1729792579,
+      102085387,
+      1729792631
     ],
     "wof:concordances": {
       "swim:flight_ref": "154185198"
@@ -72,12 +73,13 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1730040045,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1729792595,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -85,31 +87,58 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1730040045,
         "region_id": 85688637,
         "venue_id": 1729792595,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792581,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1730040045,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729792631,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792581,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "event_id": 1730040045,
+        "region_id": 85688637,
+        "venue_id": 1729792631,
         "wing_id": 1729792579
       }
     ],
     "wof:id": 1730040045,
     "wof:involves": [
-      1159284021, 
-      1729792595, 
-      1159289993, 
-      102527513, 
+      1159284021,
+      1729792595,
+      1159289993,
+      102527513,
       102556703
     ],
-    "wof:lastmodified": 1620058451,
+    "wof:lastmodified": 1653096779,
     "wof:name": "BA287 (LHR-SFO)",
-    "wof:parent_id": 1729792595,
+    "wof:parent_id": -4,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}
