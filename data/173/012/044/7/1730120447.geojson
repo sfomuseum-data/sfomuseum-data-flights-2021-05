@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210522-D-DAL-8930",
     "sfomuseum:flight_number": [
-      "DAL8930", 
+      "DAL8930",
       "DL8930"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-path", 
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N662DN",
@@ -51,26 +51,33 @@
     "wof:country": "US",
     "wof:created": 1621786420,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730120447
+      }
+    ],
     "wof:id": 1730120447,
     "wof:involves": [
-      102527513, 
-      1159284261, 
-      1159289939, 
+      102527513,
+      1159284261,
+      1159289939,
       102527363
     ],
-    "wof:lastmodified": 1621786651,
+    "wof:lastmodified": 1717033953,
     "wof:name": "DL8930 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

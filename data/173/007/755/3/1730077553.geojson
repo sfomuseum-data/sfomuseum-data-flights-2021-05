@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210512-D-DAL-8886",
     "sfomuseum:flight_number": [
-      "DAL8886", 
+      "DAL8886",
       "DL8886"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N684DA",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1620922190,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730077553
+      }
+    ],
     "wof:id": 1730077553,
     "wof:involves": [
-      1159289939, 
-      102528181, 
-      102527513, 
+      1159289939,
+      102528181,
+      102527513,
       1159284261
     ],
-    "wof:lastmodified": 1620922368,
+    "wof:lastmodified": 1717033959,
     "wof:name": "DL8886 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.259551,40.492624]],"type":"MultiPoint"}

@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20210514-A-UAL-2754",
     "sfomuseum:flight_number": [
-      "UAL2754", 
+      "UAL2754",
       "UA2754"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N37274",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1621094821,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730082905
+      }
+    ],
     "wof:id": 1730082905,
     "wof:involves": [
-      1159289871, 
-      102527513, 
-      102534097, 
+      1159289871,
+      102527513,
+      102534097,
       1159285413
     ],
-    "wof:lastmodified": 1621095331,
+    "wof:lastmodified": 1717033953,
     "wof:name": "UA2754 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

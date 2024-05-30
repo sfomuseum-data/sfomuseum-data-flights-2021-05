@@ -96,10 +96,13 @@
       102527209,
       102527513
     ],
-    "wof:lastmodified": 1653096783,
+    "wof:lastmodified": 1717033955,
     "wof:name": "F92080 (SFO-LAS)",
     "wof:parent_id": 1729792635,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

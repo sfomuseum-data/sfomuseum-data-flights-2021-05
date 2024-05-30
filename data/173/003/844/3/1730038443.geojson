@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210501-D-UAE-3110",
     "sfomuseum:flight_number": [
-      "UAE3110", 
+      "UAE3110",
       "EK3110"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1619971871,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730038443
+      }
+    ],
     "wof:id": 1730038443,
     "wof:involves": [
-      102533269, 
-      102527513, 
-      1159284333, 
-      -1, 
+      102533269,
+      102527513,
+      1159284333,
+      -1,
       1159283813
     ],
-    "wof:lastmodified": 1619971871,
+    "wof:lastmodified": 1717033956,
     "wof:name": "EK3110 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

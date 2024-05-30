@@ -97,10 +97,13 @@
       102558433,
       102527513
     ],
-    "wof:lastmodified": 1653096783,
+    "wof:lastmodified": 1717033956,
     "wof:name": "EK226 (SFO-DXB)",
     "wof:parent_id": 1729792621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

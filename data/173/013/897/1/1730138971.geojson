@@ -98,10 +98,13 @@
       1528104575,
       102527513
     ],
-    "wof:lastmodified": 1653096815,
+    "wof:lastmodified": 1717033959,
     "wof:name": "AC2044 (YVR-SFO)",
     "wof:parent_id": 1745882409,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

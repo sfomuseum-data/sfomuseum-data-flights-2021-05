@@ -92,10 +92,13 @@
       1729792585,
       1159283539
     ],
-    "wof:lastmodified": 1653096798,
+    "wof:lastmodified": 1717033958,
     "wof:name": "DL8001 (SFO-MEX)",
     "wof:parent_id": 1729792617,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

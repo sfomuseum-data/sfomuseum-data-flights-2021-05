@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210522-A-AVA-563",
     "sfomuseum:flight_number": [
-      "AVA563", 
+      "AVA563",
       "AV563"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1621785947,
     "wof:geomhash": "f780d59ec1f4d1acb53d14db45159ea5",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730119029
+      }
+    ],
     "wof:id": 1730119029,
     "wof:involves": [
-      102527513, 
-      102527513, 
-      1159283957, 
+      102527513,
+      102527513,
+      1159283957,
       -1
     ],
-    "wof:lastmodified": 1621785947,
+    "wof:lastmodified": 1717033958,
     "wof:name": "AV563 (SFO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.370943, 
+    -122.370943,
+    37.61799,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.370943,37.61799]],"type":"MultiPoint"}

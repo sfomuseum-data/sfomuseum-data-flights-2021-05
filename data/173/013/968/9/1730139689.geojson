@@ -100,10 +100,13 @@
       102532701,
       1159284583
     ],
-    "wof:lastmodified": 1653096816,
+    "wof:lastmodified": 1717033960,
     "wof:name": "B6341 (BDL-SFO)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

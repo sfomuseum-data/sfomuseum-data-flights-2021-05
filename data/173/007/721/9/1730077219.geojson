@@ -100,10 +100,13 @@
       102536579,
       102527513
     ],
-    "wof:lastmodified": 1653096789,
+    "wof:lastmodified": 1717033956,
     "wof:name": "AM669 (SFO-MEX)",
     "wof:parent_id": 1729792613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

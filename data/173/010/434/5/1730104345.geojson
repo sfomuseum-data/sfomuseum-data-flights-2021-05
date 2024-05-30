@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102531997,
     "sfomuseum:flight_id": "20210517-A-UAL-1373",
     "sfomuseum:flight_number": [
-      "UAL1373", 
+      "UAL1373",
       "UA1373"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1621354042,
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730104345
+      }
+    ],
     "wof:id": 1730104345,
     "wof:involves": [
-      102527513, 
-      102531997, 
-      1159285413, 
+      102527513,
+      102531997,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1621354042,
+    "wof:lastmodified": 1717033956,
     "wof:name": "UA1373 (ACV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -124.10802, 
-    37.61799, 
-    -122.370943, 
+    -124.10802,
+    37.61799,
+    -122.370943,
     40.971689
   ],
   "geometry": {"coordinates":[[-124.10802,40.971689],[-122.370943,37.61799]],"type":"MultiPoint"}

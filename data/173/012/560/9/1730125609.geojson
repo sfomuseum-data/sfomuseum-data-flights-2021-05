@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102530081,
     "sfomuseum:flight_id": "20210524-A-UAL-1370",
     "sfomuseum:flight_number": [
-      "UAL1370", 
+      "UAL1370",
       "UA1370"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1621958978,
     "wof:geomhash": "8c441f4739fc58e145d324772acb8d0d",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730125609
+      }
+    ],
     "wof:id": 1730125609,
     "wof:involves": [
-      102527513, 
-      102530081, 
-      1159285413, 
+      102527513,
+      102530081,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1621958978,
+    "wof:lastmodified": 1717033957,
     "wof:name": "UA1370 (OTH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -124.24373, 
-    37.61799, 
-    -122.370943, 
+    -124.24373,
+    37.61799,
+    -122.370943,
     43.41706
   ],
   "geometry": {"coordinates":[[-124.24373,43.41706],[-122.370943,37.61799]],"type":"MultiPoint"}

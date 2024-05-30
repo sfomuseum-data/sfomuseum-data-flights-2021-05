@@ -97,10 +97,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1653096807,
+    "wof:lastmodified": 1717033955,
     "wof:name": "WN2912 (SFO-DEN)",
     "wof:parent_id": 1745882151,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

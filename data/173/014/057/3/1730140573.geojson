@@ -92,10 +92,13 @@
       1729792519,
       1159285413
     ],
-    "wof:lastmodified": 1653096816,
+    "wof:lastmodified": 1717033953,
     "wof:name": "NZ9224 (SFO-LAS)",
     "wof:parent_id": 1745882267,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -33,7 +33,7 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20210503-A-UAL-2802",
     "sfomuseum:flight_number": [
-      "UAL2802", 
+      "UAL2802",
       "UA2802"
     ],
     "sfomuseum:placetype": "flight",
@@ -49,26 +49,33 @@
     "wof:country": "US",
     "wof:created": 1620144373,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730044029
+      }
+    ],
     "wof:id": 1730044029,
     "wof:involves": [
-      1159293215, 
-      102527513, 
-      102541685, 
+      1159293215,
+      102527513,
+      102541685,
       1159285413
     ],
-    "wof:lastmodified": 1620144785,
+    "wof:lastmodified": 1717033955,
     "wof:name": "UA2802 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

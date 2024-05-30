@@ -86,10 +86,13 @@
       1159283813,
       1729792403
     ],
-    "wof:lastmodified": 1653096806,
+    "wof:lastmodified": 1717033953,
     "wof:name": "AS3466 (LAX-SFO)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

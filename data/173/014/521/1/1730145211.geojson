@@ -95,10 +95,13 @@
       1729792407,
       1377564285
     ],
-    "wof:lastmodified": 1653096822,
+    "wof:lastmodified": 1717033957,
     "wof:name": "AS376 (SEA-SFO)",
     "wof:parent_id": 1745882103,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210502-D-ASA-331",
     "sfomuseum:flight_number": [
-      "ASA331", 
+      "ASA331",
       "AS331"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1620058181,
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730041267
+      }
+    ],
     "wof:id": 1730041267,
     "wof:involves": [
-      102527351, 
-      102527513, 
-      1159283813, 
+      102527351,
+      102527513,
+      1159283813,
       -1
     ],
-    "wof:lastmodified": 1620058181,
+    "wof:lastmodified": 1717033954,
     "wof:name": "AS331 (SFO-SBP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.23692, 
-    -120.64323, 
+    -122.370943,
+    35.23692,
+    -120.64323,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-120.64323,35.23692]],"type":"MultiPoint"}

@@ -86,10 +86,13 @@
       1159283813,
       1729792399
     ],
-    "wof:lastmodified": 1653096820,
+    "wof:lastmodified": 1717033956,
     "wof:name": "AS3417 (SFO-SNA)",
     "wof:parent_id": 1745882095,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

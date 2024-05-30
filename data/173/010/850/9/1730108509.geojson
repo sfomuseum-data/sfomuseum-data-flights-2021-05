@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210518-D-UAL-2708",
     "sfomuseum:flight_number": [
-      "UAL2708", 
+      "UAL2708",
       "UA2708"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,26 +50,33 @@
     "wof:country": "US",
     "wof:created": 1621440663,
     "wof:geomhash": "40a575d271046e5423fe379346e0e87e",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730108509
+      }
+    ],
     "wof:id": 1730108509,
     "wof:involves": [
-      1159289985, 
-      102530801, 
-      102527513, 
+      1159289985,
+      102530801,
+      102527513,
       1159285413
     ],
-    "wof:lastmodified": 1621440731,
+    "wof:lastmodified": 1717033959,
     "wof:name": "UA2708 (SFO-VCV)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.581613, 
-    -117.374502, 
+    -122.370943,
+    34.581613,
+    -117.374502,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.374502,34.581613]],"type":"MultiPoint"}

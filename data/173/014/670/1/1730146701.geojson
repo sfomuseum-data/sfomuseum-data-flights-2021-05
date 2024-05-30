@@ -33,40 +33,47 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210531-D-BAW-286",
     "sfomuseum:flight_number": [
-      "BAW286", 
+      "BAW286",
       "BA286"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1622563857,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730146701
+      }
+    ],
     "wof:id": 1730146701,
     "wof:involves": [
-      1159293215, 
-      102556703, 
-      102527513, 
+      1159293215,
+      102556703,
+      102527513,
       1159284021
     ],
-    "wof:lastmodified": 1622564110,
+    "wof:lastmodified": 1717033958,
     "wof:name": "BA286 (SFO-LHR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}

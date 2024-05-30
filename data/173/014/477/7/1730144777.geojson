@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20210531-A-ACA-3517",
     "sfomuseum:flight_number": [
-      "ACA3517", 
+      "ACA3517",
       "AC3517"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1622563351,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730144777
+      }
+    ],
     "wof:id": 1730144777,
     "wof:involves": [
-      102527513, 
-      102533997, 
-      1159283597, 
-      -1, 
+      102527513,
+      102533997,
+      1159283597,
+      -1,
       1159285413
     ],
-    "wof:lastmodified": 1622563351,
+    "wof:lastmodified": 1717033957,
     "wof:name": "AC3517 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

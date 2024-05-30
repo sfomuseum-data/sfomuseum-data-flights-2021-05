@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527185,
     "sfomuseum:flight_id": "20210520-A-DAL-8930",
     "sfomuseum:flight_number": [
-      "DAL8930", 
+      "DAL8930",
       "DL8930"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1621613078,
     "wof:geomhash": "6d798bc66034dc17109500bf89e39585",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730112771
+      }
+    ],
     "wof:id": 1730112771,
     "wof:involves": [
-      102527513, 
-      102527185, 
-      1159284261, 
+      102527513,
+      102527185,
+      1159284261,
       -1
     ],
-    "wof:lastmodified": 1621613078,
+    "wof:lastmodified": 1717033954,
     "wof:name": "DL8930 (MEM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.981998,35.04889],[-122.370943,37.61799]],"type":"MultiPoint"}

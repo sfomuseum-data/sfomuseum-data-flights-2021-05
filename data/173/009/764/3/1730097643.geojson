@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20210515-A-DAL-9961",
     "sfomuseum:flight_number": [
-      "DAL9961", 
+      "DAL9961",
       "DL9961"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N336NW",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1621181073,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730097643
+      }
+    ],
     "wof:id": 1730097643,
     "wof:involves": [
-      1159292085, 
-      102527513, 
-      102531131, 
+      1159292085,
+      102527513,
+      102531131,
       1159284261
     ],
-    "wof:lastmodified": 1621181724,
+    "wof:lastmodified": 1717033955,
     "wof:name": "DL9961 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -100,10 +100,13 @@
       1159284583,
       1729792439
     ],
-    "wof:lastmodified": 1653096807,
+    "wof:lastmodified": 1717033955,
     "wof:name": "B61982 (SFO-EWR)",
     "wof:parent_id": 1745882141,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

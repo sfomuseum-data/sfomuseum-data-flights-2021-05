@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210501-D-UAL-2833",
     "sfomuseum:flight_number": [
-      "UAL2833", 
+      "UAL2833",
       "UA2833"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N2331U",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1619971898,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730038539
+      }
+    ],
     "wof:id": 1730038539,
     "wof:involves": [
-      1159289993, 
-      102541685, 
-      102527513, 
+      1159289993,
+      102541685,
+      102527513,
       1159285413
     ],
-    "wof:lastmodified": 1619971965,
+    "wof:lastmodified": 1717033956,
     "wof:name": "UA2833 (SFO-NRT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}

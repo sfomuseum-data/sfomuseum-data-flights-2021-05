@@ -32,7 +32,7 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20210525-A-DAL-9968",
     "sfomuseum:flight_number": [
-      "DAL9968", 
+      "DAL9968",
       "DL9968"
     ],
     "sfomuseum:placetype": "flight",
@@ -44,26 +44,33 @@
     "wof:country": "US",
     "wof:created": 1622045214,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730128019
+      }
+    ],
     "wof:id": 1730128019,
     "wof:involves": [
-      102527513, 
-      102527363, 
-      1159284261, 
+      102527513,
+      102527363,
+      1159284261,
       -1
     ],
-    "wof:lastmodified": 1622045935,
+    "wof:lastmodified": 1717033959,
     "wof:name": "DL9968 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

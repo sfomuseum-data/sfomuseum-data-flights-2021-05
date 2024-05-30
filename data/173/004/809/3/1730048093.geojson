@@ -33,7 +33,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210504-D-SWA-4555",
     "sfomuseum:flight_number": [
-      "SWA4555", 
+      "SWA4555",
       "WN4555"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,17 +43,17 @@
     ],
     "swim:tail_number": "N7840A",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792437, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792447, 
-      1729792435, 
+      1729792387,
+      102527513,
+      1729792437,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792447,
+      1729792435,
       102085387
     ],
     "wof:country": "US",
@@ -67,12 +67,13 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "event_id": 1730048093,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1729792447,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -80,6 +81,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "event_id": 1730048093,
         "region_id": 85688637,
         "venue_id": 1729792447,
         "wing_id": 1729792435
@@ -87,24 +89,27 @@
     ],
     "wof:id": 1730048093,
     "wof:involves": [
-      1159289869, 
-      102531205, 
-      102527513, 
-      1159285591, 
+      1159289869,
+      102531205,
+      102527513,
+      1159285591,
       1729792447
     ],
-    "wof:lastmodified": 1620231163,
+    "wof:lastmodified": 1717033958,
     "wof:name": "WN4555 (SFO-MDW)",
     "wof:parent_id": 1729792447,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

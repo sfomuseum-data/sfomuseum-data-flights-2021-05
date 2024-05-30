@@ -99,10 +99,13 @@
       1159289411,
       102526927
     ],
-    "wof:lastmodified": 1653096807,
+    "wof:lastmodified": 1717033954,
     "wof:name": "DL554 (SFO-ATL)",
     "wof:parent_id": 1745882205,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

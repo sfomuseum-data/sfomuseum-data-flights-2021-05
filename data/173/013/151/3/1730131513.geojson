@@ -92,10 +92,13 @@
       1729792415,
       1159284261
     ],
-    "wof:lastmodified": 1653096807,
+    "wof:lastmodified": 1717033954,
     "wof:name": "AM3610 (SFO-LAX)",
     "wof:parent_id": 1745882111,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

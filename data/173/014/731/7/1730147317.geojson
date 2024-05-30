@@ -99,10 +99,13 @@
       1159285413,
       1729792545
     ],
-    "wof:lastmodified": 1653096824,
+    "wof:lastmodified": 1717033958,
     "wof:name": "UA1980 (SFO-SNA)",
     "wof:parent_id": 1745882293,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

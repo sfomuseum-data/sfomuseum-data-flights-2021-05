@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20210530-A-UAL-2778",
     "sfomuseum:flight_number": [
-      "UAL2778", 
+      "UAL2778",
       "UA2778"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N26906",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1622477235,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730142923
+      }
+    ],
     "wof:id": 1730142923,
     "wof:involves": [
-      1159289995, 
-      102527513, 
-      102530049, 
+      1159289995,
+      102527513,
+      102530049,
       1159285413
     ],
-    "wof:lastmodified": 1622477673,
+    "wof:lastmodified": 1717033955,
     "wof:name": "UA2778 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

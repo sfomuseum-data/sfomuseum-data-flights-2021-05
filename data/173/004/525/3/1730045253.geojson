@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210503-D-UAL-1363",
     "sfomuseum:flight_number": [
-      "UAL1363", 
+      "UAL1363",
       "UA1363"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1620144704,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730045253
+      }
+    ],
     "wof:id": 1730045253,
     "wof:involves": [
-      102527733, 
-      102527513, 
-      1159285413, 
+      102527733,
+      102527513,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1620144704,
+    "wof:lastmodified": 1717033956,
     "wof:name": "UA1363 (SFO-BOI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -116.224634, 
+    -122.370943,
+    37.61799,
+    -116.224634,
     43.564048
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-116.224634,43.564048]],"type":"MultiPoint"}

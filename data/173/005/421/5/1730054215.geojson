@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210506-D-UAL-2752",
     "sfomuseum:flight_number": [
-      "UAL2752", 
+      "UAL2752",
       "UA2752"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,26 +50,33 @@
     "wof:country": "US",
     "wof:created": 1620404091,
     "wof:geomhash": "9d5970fb497c224f692cb976d5929b90",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730054215
+      }
+    ],
     "wof:id": 1730054215,
     "wof:involves": [
-      102533331, 
-      102527513, 
-      1159285413, 
+      102533331,
+      102527513,
+      1159285413,
       1159289871
     ],
-    "wof:lastmodified": 1620404165,
+    "wof:lastmodified": 1717033956,
     "wof:name": "UA2752 (SFO-GEG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -117.531916, 
+    -122.370943,
+    37.61799,
+    -117.531916,
     47.625686
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.531916,47.625686]],"type":"MultiPoint"}

@@ -86,10 +86,13 @@
       1159284261,
       1729792415
     ],
-    "wof:lastmodified": 1653096807,
+    "wof:lastmodified": 1717033954,
     "wof:name": "DL3816 (SFO-LAX)",
     "wof:parent_id": 1745882111,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

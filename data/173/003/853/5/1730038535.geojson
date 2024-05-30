@@ -50,10 +50,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1652204941,
+    "wof:lastmodified": 1717033956,
     "wof:name": "UA2583 (SFO-YUM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

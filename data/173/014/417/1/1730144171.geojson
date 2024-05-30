@@ -95,10 +95,13 @@
       102533795,
       102527513
     ],
-    "wof:lastmodified": 1653096821,
+    "wof:lastmodified": 1717033956,
     "wof:name": "WN2177 (SFO-LAX)",
     "wof:parent_id": 1745882155,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

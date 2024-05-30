@@ -95,10 +95,13 @@
       102558433,
       1159284333
     ],
-    "wof:lastmodified": 1653096779,
+    "wof:lastmodified": 1717033953,
     "wof:name": "EK225 (DXB-SFO)",
     "wof:parent_id": 1729792621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

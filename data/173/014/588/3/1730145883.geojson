@@ -99,10 +99,13 @@
       102532939,
       1159285413
     ],
-    "wof:lastmodified": 1653096823,
+    "wof:lastmodified": 1717033957,
     "wof:name": "UA1724 (KOA-SFO)",
     "wof:parent_id": 1745882305,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

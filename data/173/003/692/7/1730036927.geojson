@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20210501-A-FIN-2506",
     "sfomuseum:flight_number": [
-      "FIN2506", 
+      "FIN2506",
       "AY2506"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1619971473,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730036927
+      }
+    ],
     "wof:id": 1730036927,
     "wof:involves": [
-      102527513, 
-      102532251, 
-      1159284389, 
-      -1, 
+      102527513,
+      102532251,
+      1159284389,
+      -1,
       1159283813
     ],
-    "wof:lastmodified": 1619971473,
+    "wof:lastmodified": 1717033955,
     "wof:name": "AY2506 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

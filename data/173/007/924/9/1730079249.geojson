@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20210513-A-DAL-8934",
     "sfomuseum:flight_number": [
-      "DAL8934", 
+      "DAL8934",
       "DL8934"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N662DN",
@@ -52,26 +52,33 @@
     "wof:country": "US",
     "wof:created": 1621008312,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730079249
+      }
+    ],
     "wof:id": 1730079249,
     "wof:involves": [
-      1159289939, 
-      102527513, 
-      102525799, 
+      1159289939,
+      102527513,
+      102525799,
       1159284261
     ],
-    "wof:lastmodified": 1621009004,
+    "wof:lastmodified": 1717033953,
     "wof:name": "DL8934 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

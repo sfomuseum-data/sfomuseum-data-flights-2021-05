@@ -92,10 +92,13 @@
       1729792597,
       1159283627
     ],
-    "wof:lastmodified": 1653096792,
+    "wof:lastmodified": 1717033957,
     "wof:name": "DL8599 (SFO-CDG)",
     "wof:parent_id": 1729792627,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

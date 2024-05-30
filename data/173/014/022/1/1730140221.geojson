@@ -92,10 +92,13 @@
       1729792671,
       1159286475
     ],
-    "wof:lastmodified": 1653096816,
+    "wof:lastmodified": 1717033953,
     "wof:name": "UA9728 (ZRH-SFO)",
     "wof:parent_id": 1745882427,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

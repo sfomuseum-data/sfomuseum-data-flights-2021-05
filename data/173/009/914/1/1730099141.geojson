@@ -92,10 +92,13 @@
       1729792599,
       1159284489
     ],
-    "wof:lastmodified": 1653096793,
+    "wof:lastmodified": 1717033959,
     "wof:name": "KE7862 (SFO-HNL)",
     "wof:parent_id": 1729792623,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

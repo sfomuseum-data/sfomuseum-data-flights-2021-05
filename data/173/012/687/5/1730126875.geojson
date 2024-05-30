@@ -97,10 +97,13 @@
       102531131,
       102527513
     ],
-    "wof:lastmodified": 1653096802,
+    "wof:lastmodified": 1717033958,
     "wof:name": "SY398 (SFO-MSP)",
     "wof:parent_id": 1729792613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

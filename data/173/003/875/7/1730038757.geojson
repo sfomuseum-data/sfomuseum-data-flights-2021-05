@@ -92,10 +92,13 @@
       1729792591,
       1159283627
     ],
-    "wof:lastmodified": 1653096778,
+    "wof:lastmodified": 1717033957,
     "wof:name": "VS6785 (SFO-CDG)",
     "wof:parent_id": 1729792621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

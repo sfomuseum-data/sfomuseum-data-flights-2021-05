@@ -100,10 +100,13 @@
       1159289421,
       102533997
     ],
-    "wof:lastmodified": 1653096781,
+    "wof:lastmodified": 1717033958,
     "wof:name": "HA11 (SFO-HNL)",
     "wof:parent_id": 1729792623,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

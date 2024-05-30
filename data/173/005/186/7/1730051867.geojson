@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20210506-A-AAL-421",
     "sfomuseum:flight_number": [
-      "AAL421", 
+      "AAL421",
       "AA421"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1620403276,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730051867
+      }
+    ],
     "wof:id": 1730051867,
     "wof:involves": [
-      102527513, 
-      102531023, 
-      1159283849, 
+      102527513,
+      102531023,
+      1159283849,
       -1
     ],
-    "wof:lastmodified": 1620403276,
+    "wof:lastmodified": 1717033954,
     "wof:name": "AA421 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

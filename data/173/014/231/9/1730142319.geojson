@@ -101,10 +101,13 @@
       102527513,
       102526927
     ],
-    "wof:lastmodified": 1653096818,
+    "wof:lastmodified": 1717033955,
     "wof:name": "DL1204 (ATL-SFO)",
     "wof:parent_id": 1745882203,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

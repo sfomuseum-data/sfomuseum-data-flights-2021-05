@@ -34,7 +34,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210506-D-UAE-3111",
     "sfomuseum:flight_number": [
-      "UAE3111", 
+      "UAE3111",
       "EK3111"
     ],
     "sfomuseum:placetype": "flight",
@@ -43,27 +43,34 @@
     "wof:country": "US",
     "wof:created": 1620404064,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730054117
+      }
+    ],
     "wof:id": 1730054117,
     "wof:involves": [
-      102533795, 
-      102527513, 
-      1159284333, 
-      -1, 
+      102533795,
+      102527513,
+      1159284333,
+      -1,
       1159283813
     ],
-    "wof:lastmodified": 1620404064,
+    "wof:lastmodified": 1717033956,
     "wof:name": "EK3111 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

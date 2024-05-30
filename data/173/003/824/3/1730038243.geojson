@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210501-D-JAL-6711",
     "sfomuseum:flight_number": [
-      "JAL6711", 
+      "JAL6711",
       "JL6711"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "JA740J",
@@ -51,26 +51,33 @@
     "wof:country": "US",
     "wof:created": 1619971819,
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730038243
+      }
+    ],
     "wof:id": 1730038243,
     "wof:involves": [
-      1159289993, 
-      102541591, 
-      102527513, 
+      1159289993,
+      102541591,
+      102527513,
       1159284563
     ],
-    "wof:lastmodified": 1619971964,
+    "wof:lastmodified": 1717033956,
     "wof:name": "JL6711 (SFO-HND)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.554085, 
-    139.775638, 
+    -122.370943,
+    35.554085,
+    139.775638,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[139.775638,35.554085]],"type":"MultiPoint"}

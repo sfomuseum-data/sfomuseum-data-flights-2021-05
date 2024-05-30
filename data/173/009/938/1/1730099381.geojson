@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210515-D-UAL-1374",
     "sfomuseum:flight_number": [
-      "UAL1374", 
+      "UAL1374",
       "UA1374"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1621181637,
     "wof:geomhash": "35bbc0945da54b0b429931c4fc7f97cd",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730099381
+      }
+    ],
     "wof:id": 1730099381,
     "wof:involves": [
-      102530081, 
-      102527513, 
-      1159285413, 
+      102530081,
+      102527513,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1621181637,
+    "wof:lastmodified": 1717033959,
     "wof:name": "UA1374 (SFO-OTH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -124.24373, 
-    37.61799, 
-    -122.370943, 
+    -124.24373,
+    37.61799,
+    -122.370943,
     43.41706
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-124.24373,43.41706]],"type":"MultiPoint"}

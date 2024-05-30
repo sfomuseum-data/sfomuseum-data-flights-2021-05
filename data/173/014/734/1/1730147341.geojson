@@ -101,10 +101,13 @@
       1729792537,
       1159289407
     ],
-    "wof:lastmodified": 1653096824,
+    "wof:lastmodified": 1717033959,
     "wof:name": "UA277 (SFO-SEA)",
     "wof:parent_id": 1745882285,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

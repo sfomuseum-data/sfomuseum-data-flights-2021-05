@@ -86,10 +86,13 @@
       1159283957,
       1729792583
     ],
-    "wof:lastmodified": 1653096780,
+    "wof:lastmodified": 1717033956,
     "wof:name": "AV563 (SFO-SAL)",
     "wof:parent_id": 1729792613,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

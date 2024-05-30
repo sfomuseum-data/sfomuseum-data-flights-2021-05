@@ -95,10 +95,13 @@
       1159292085,
       102527513
     ],
-    "wof:lastmodified": 1653096823,
+    "wof:lastmodified": 1717033959,
     "wof:name": "UA1234 (LAX-SFO)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

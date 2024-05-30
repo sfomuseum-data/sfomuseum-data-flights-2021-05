@@ -33,14 +33,14 @@
     "sfomuseum:departure_id": 102535777,
     "sfomuseum:flight_id": "20210524-A-UAL-3019",
     "sfomuseum:flight_number": [
-      "UAL3019", 
+      "UAL3019",
       "UA3019"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N2251U",
@@ -51,26 +51,33 @@
     "wof:country": "US",
     "wof:created": 1621958996,
     "wof:geomhash": "cfb34c2f58cdf1c02ffeb00ec136aa4c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730125679
+      }
+    ],
     "wof:id": 1730125679,
     "wof:involves": [
-      1159289993, 
-      102527513, 
-      102535777, 
+      1159289993,
+      102527513,
+      102535777,
       1159285413
     ],
-    "wof:lastmodified": 1621959509,
+    "wof:lastmodified": 1717033959,
     "wof:name": "UA3019 (GUM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.483889, 
-    144.797222, 
+    -122.370943,
+    13.483889,
+    144.797222,
     37.61799
   ],
   "geometry": {"coordinates":[[144.797222,13.483889],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -29,7 +29,7 @@
     "sfomuseum:departure_id": 102535777,
     "sfomuseum:flight_id": "20210514-A-UAL-872",
     "sfomuseum:flight_number": [
-      "UAL872", 
+      "UAL872",
       "UA872"
     ],
     "sfomuseum:placetype": "flight",
@@ -38,26 +38,33 @@
     "wof:country": "US",
     "wof:created": 1621094869,
     "wof:geomhash": "cfb34c2f58cdf1c02ffeb00ec136aa4c",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730083087
+      }
+    ],
     "wof:id": 1730083087,
     "wof:involves": [
-      102527513, 
-      102535777, 
-      1159285413, 
+      102527513,
+      102535777,
+      1159285413,
       -1
     ],
-    "wof:lastmodified": 1621094869,
+    "wof:lastmodified": 1717033954,
     "wof:name": "UA872 (GUM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.483889, 
-    144.797222, 
+    -122.370943,
+    13.483889,
+    144.797222,
     37.61799
   ],
   "geometry": {"coordinates":[[144.797222,13.483889],[-122.370943,37.61799]],"type":"MultiPoint"}

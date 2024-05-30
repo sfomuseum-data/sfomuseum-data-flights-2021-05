@@ -33,13 +33,13 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20210516-D-UAL-2720",
     "sfomuseum:flight_number": [
-      "UAL2720", 
+      "UAL2720",
       "UA2720"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -50,26 +50,33 @@
     "wof:country": "US",
     "wof:created": 1621268048,
     "wof:geomhash": "0b6541420093e6b25f4bd5adbdfaed9e",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1730102617
+      }
+    ],
     "wof:id": 1730102617,
     "wof:involves": [
-      1377564285, 
-      102528325, 
-      102527513, 
+      1377564285,
+      102528325,
+      102527513,
       1159285413
     ],
-    "wof:lastmodified": 1621268125,
+    "wof:lastmodified": 1717033955,
     "wof:name": "UA2720 (SFO-RFD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2021-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -89.096803, 
+    -122.370943,
+    37.61799,
+    -89.096803,
     42.197995
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-89.096803,42.197995]],"type":"MultiPoint"}
